@@ -1,0 +1,17 @@
+VideoGameSubject: Attached an observer
+VideoGameSubject: Attached an observer
+
+VideoGameSubject: There was a new leak for the upcoming new video game!
+VideoGameSubject: My state has just changed to: 1
+VideoGameSubject: Notifying observers...
+ProGamer: Professionally reacted to the event
+CasualGamer: Casually reacted to the event
+
+VideoGameSubject: There was a new leak for the upcoming new video game!
+VideoGameSubject: My state has just changed to: 8
+VideoGameSubject: Notifying observers...
+ProGamer: Professionally reacted to the event
+
+VideoGameSubject: There was a new leak for the upcoming new video game!
+VideoGameSubject: My state has just changed to: 5
+VideoGameSubject: Notifying observers...
